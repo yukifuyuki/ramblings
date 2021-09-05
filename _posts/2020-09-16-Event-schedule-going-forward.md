@@ -29,7 +29,7 @@ Both the specific time and content of the FCCE will be voted on. An example of t
 
 A write-in option will be provided for people to submit event ideas and time outside of the options given. These submissions will be included on the voting form from then onward. The FCCE event is not limited to clearing or farming content, it can be fun events too (e.g. PvP 1v1 dueling tournament, race up Kugane tower, bard performance competition.) The FC currently has over 200 million gil in cash that is sitting there unused. I am happy for some of it to go to event rewards.
 
-To control the number of options in each vote the least popular option may or may not be removed from future votes. It can be added back in from a write-in option later. This is to prevent voting forms from looking thusly.
+To control the number of options in each vote the least popular option may or may not be removed from future votes. It can be added back in from a write-in option later.
 
 A current vote is underway for 26/27 September. Votes in the future will be very similar to this one. The current vote can be found at:
 
