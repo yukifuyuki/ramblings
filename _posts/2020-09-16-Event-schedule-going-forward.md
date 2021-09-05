@@ -11,19 +11,22 @@ There will be two events per month:
 
 Both the specific time and content of the FCCE will be voted on. An example of the voting schedule is as follows:
 
-- Month 1, 1st weekend:
+Month 1, 1st weekend:
 - Treasure hunt runs.
 - Voting for FCCE for Month 1 ends. Voting for Month 2 begins.
 - Details for FCCE for Month 1 is published.
 - Sign-ups for FCCE for Month 1 begins.
-- Month 1, 3rd weekend: 
+
+Month 1, 3rd weekend: 
 - FCCE for Month 1 runs.
-- Month 2, 1st weekend:
+
+Month 2, 1st weekend:
 - Treasure hunt runs.
 - Voting for FCCE for Month 2 ends. Voting for Month 3 begins.
 - Details for FCCE for Month 2 is published.
 - Sign-ups for FCCE for Month 2 begins.
-- Month 2, 3rd weekend:
+
+Month 2, 3rd weekend:
 - FCCE for Month 2 runs.
 - Whether advertisement and sign-up will go for one week or two weeks (two weeks is shown in the example) will be decided on a "see how it goes" basis.
 
