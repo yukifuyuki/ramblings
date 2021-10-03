@@ -1,5 +1,5 @@
 ---
-title: "Regarding FC renaming"
+title: "Regarding FC Renaming"
 date: 2020-08-08
 ---
 I wanted to step away from straight up copying a game as famous as FF7 (especially given that we're still in the FF series with 14) to add uniqueness to the FC, so I suggested a name change and asked people what they thought with a poll.
