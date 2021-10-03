@@ -1,5 +1,5 @@
 ---
-title: "Event schedule update February 2021"
+title: "Event Schedule Update February 2021"
 date: 2021-02-05
 ---
 
