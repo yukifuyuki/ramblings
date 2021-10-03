@@ -1,5 +1,5 @@
 ---
-title: "Event schedule going forward"
+title: "Event Schedule Going Forward"
 date: 2020-09-16
 ---
 
