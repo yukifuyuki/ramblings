@@ -12,5 +12,5 @@ A custom event schedule will replace the regular FC schedule for one month or so
 
 <div style="text-align:right">-Yuki, 1 November 2021</div>
 
-##### Update 6 November 2021
+#### Update 6 November 2021
 Endwalker has been delayed by 2 weeks until 3 December, likewise the FC renaming will also be delayed until 27 November, the Saturday before Endwalker launches.
